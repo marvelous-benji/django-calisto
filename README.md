@@ -1,2 +1,2 @@
 # django-calisto
-A reimplementation of my flask calisto-blog in django
+A re-implementation of my flask calisto-blog in django
